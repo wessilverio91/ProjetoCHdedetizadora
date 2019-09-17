@@ -38,6 +38,4 @@ public class Cidade {
     public void setCep(int cep) {
         this.cep = cep;
     }
-    
-    
 }
